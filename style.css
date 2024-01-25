@@ -1,0 +1,269 @@
+.first-img
+{
+    height: 120px;
+    margin-left: 110px;
+}
+.second-img
+{
+    width: 200px;
+    margin-left: 75px;
+}
+#request-report
+{
+    background-image: url(images/Layer-71.jpg);
+    background-repeat: no-repeat;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.blue-pic
+{
+    padding: 200px;
+}
+.artificial-section
+{
+    background-image: url('images/Layer-211.jpg');
+    background-repeat: no-repeat;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+    
+}
+.leptop-blue-pic
+{
+  padding: 120px;
+}
+@media screen and (max-width: 992px) {
+  .leptop-blue-pic {
+    padding:100px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .artiai {
+   padding-right: 100px;
+  }
+}
+@media screen and (max-width: 992px) {
+    .arti {
+      font-size: 25px;
+    }
+  }
+@media screen and (max-width: 992px) {
+    .artiai {
+      font-size: 15px;
+    }
+  }
+  @media screen and (max-width: 992px) {
+    .artiai-btn {
+      font-size: 15px;
+    }
+  }  
+
+   
+@media only screen and (max-width: 767px) {
+    .hand-img {
+        width: 250px;
+    }
+  }  
+@media screen and (max-width: 321px) {
+    .aiexes {
+      font-size: 20px;
+    }
+  }
+@media screen and (max-width: 321px) {
+    .merge-arti {
+      font-size: 10px;
+    }
+  }
+@media screen and (max-width: 321px) {
+    .btn-arti {
+      font-size: 10px;
+    }
+  } 
+@media screen and (max-width: 1200px) {
+    .arti-int {
+      font-size: 25px;
+      text-align: center;
+    }
+  } 
+@media screen and (max-width: 1200px) {
+    .our-goal {
+      font-size: 15px;
+      text-align: center;
+    }
+  }
+@media screen and (max-width: 767px) {
+    .first-img {
+      width: 60px;
+      height: 60px;
+      margin-left: 35px;
+    }
+}  
+@media screen and (max-width: 767px) {
+    .second-img {
+      width:100px;
+      margin-left: 15px;
+    }
+  }
+@media screen and (max-width: 767px) {
+    .toggle-btn {
+      width: 20px;
+      height: 20px;
+    }
+  }  
+.featured-details
+{
+  margin-top: -110px;
+  padding-left: 40px;
+} 
+@media screen and (max-width: 1200px) {
+  .featured-details {
+    margin-top: 20px;
+    margin-left: 10px;
+    
+  }
+} 
+@media screen and (max-width: 767px) {
+  .featured-details {
+    margin-left: 0px;
+  }
+} 
+.view
+{
+  margin-left: 220px;
+}
+@media screen and (max-width: 1200px) {
+  .view {
+    margin-left: 150px;
+  }
+} 
+@media screen and (max-width: 767px) {
+  .view {
+    
+    margin-left: 250px;
+  }
+} 
+.report-summary-section
+{
+  background-image: url('images/Layer-241.jpg');
+  background-repeat: no-repeat;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  opacity: 5px;
+  /* background-size: 100% 100%; */
+}
+
+@media screen and (max-width: 576px) {
+  .report-sum {
+    font-size: 25px;
+  }
+} 
+@media screen and (max-width: 576px) {
+  .summary {
+    font-size: 15px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .summary-btn {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 567px) {
+  .white-box {
+   width: 70%;
+  }
+}
+
+.white-box
+{
+  filter: opacity(0.9);
+  margin-bottom: 100px;
+ 
+}
+/* .arti-int::after
+{
+	content: '';
+	display: block;
+	width: 10%;
+	height: 6px;
+	background-color: rgb(255,81,0);
+}
+.arti::after
+{
+	content: '';
+	display: block;
+	width: 15%;
+	height: 6px;
+	background-color: rgb(255,81,0);
+}
+.featured-deals::after
+{
+	content: '';
+	display: block;
+	width: 5%;
+	height: 6px;
+	background-color: rgb(255,81,0);
+  margin-left: 620px;
+}
+.report-sum::after
+{
+	content: '';
+	display: block;
+	width: 10%;
+	height: 6px;
+	background-color: rgb(255,81,0);
+  margin-left: 390px;
+}
+.sponsers::after
+{
+	content: '';
+	display: block;
+	width: 6%;
+	height: 6px;
+	background-color: rgb(255,81,0);
+  margin-left: 620px;
+} */
+@media screen and (max-width: 576px) {
+  .see-more-btn {
+    width: 110px;
+    font-size: 10px;
+    align-items: center;
+    height: 30px;
+  }
+}
+@media screen and (max-width: 1200px) and (min-width:576px) {
+  .vds {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 1200px) and (min-width:576px) {
+  .eib {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .blue-pic {
+    padding: 100px;
+  }
+}
+.card-padding
+{
+   padding-left: 0px;
+   padding-right: 0px;
+}
+.card-border
+{
+  border: 0px;
+}
+
+
+
+
+
+
+
+
+
